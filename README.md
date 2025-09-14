@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I’m Malia Raees
 
-I’m Malia Raees, a **Python Developer in Progress** passionate about learning and creating.  
+A **Python Developer in Progress** passionate about learning and creating.  
 Currently, I’m exploring **backend development** and improving my skills step by step through real-world projects.  
 
 - 🌱 Learning: Python fundamentals, OOP, APIs, Next.js, and **Agentic AI with OpenAI SDK**   
