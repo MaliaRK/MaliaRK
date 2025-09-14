@@ -7,4 +7,4 @@ Currently, I’m exploring **backend development** and improving my skills step 
 - 🎯 Goal: To become a skilled backend developer and contribute to impactful projects  
 - 📚 Approach: Learn → Build → Share → Improve  
 - 💡 Interest: Building web apps, solving problems with code, and exploring modern AI-driven tools 
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/malia-raees-khan) | [Email](maliaraees2@gmail.com)
+- 📫 How to reach me: [LinkedIn](#linkedin.com/in/malia-raees-khan) | [Email](mailto:maliaraees2@gmail.com)
